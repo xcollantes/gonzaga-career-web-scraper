@@ -10,14 +10,8 @@ Python based solution to grab upcoming events from Gonzaga University's [Career 
 
 I had to learn the following web scraping libraries to implement this solution:
 
-`Requests`:req to make a GET call to the target website
+<a href='http://docs.python-requests.org/en/master/'>`Requests`</a> to make a GET call to the target website
 
-`BeautifulSoup4`:[bs4] to parse the HTML received from the call
+<a href='https://pypi.org/project/beautifulsoup4/'>`BeautifulSoup4`</a> to parse the HTML received from the call
 
-`PyInstaller`:[install] to produce an executable ready for production
-
-
-
-[req]:http://docs.python-requests.org/en/master/
-[bs4]:https://pypi.org/project/beautifulsoup4/
-[install]:https://www.pyinstaller.org/
+<a href='https://www.pyinstaller.org/'>`PyInstaller`</a> to produce an executable ready for production
