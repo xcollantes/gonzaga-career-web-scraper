@@ -5,7 +5,9 @@ Python based solution to grab upcoming events from Gonzaga University's [Career 
 
 ### Techniques Used
 -----
-
+***
+* * *
+<br/>
 I had to learn the following web scraping libraries to implement this solution:
 
 <a href='http://docs.python-requests.org/en/master/'>`Requests`</a> to make a GET call to the target website
